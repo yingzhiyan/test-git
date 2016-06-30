@@ -1,2 +1,6 @@
 common
+<<<<<<< HEAD
 confvalue=master-brch
+=======
+confvalue=conflic-brch
+>>>>>>> cflict-brch
